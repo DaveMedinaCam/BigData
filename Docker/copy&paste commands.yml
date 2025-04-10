@@ -1,0 +1,5 @@
+docker cp core-site.xml d0289a9f93fd:/etc/hadoop/core-site.xml
+docker cp hdfs-site.xml d0289a9f93fd:/etc/hadoop/hdfs-site.xml
+docker cp mapred-site.xml d0289a9f93fd:/etc/hadoop/mapred-site.xml
+docker cp yarn-site.xml d0289a9f93fd:/etc/hadoop/yarn-site.xml
+

@@ -1,0 +1,62 @@
+Comandos que necesitan ejecutar dentro del CLI (Linea de comando):
+
+# Sirve para ejecutar el archivo docker-compose.yml
+- docker-compose up -d 
+
+# Sirve para eliminar/dar de baja los contenedores
+- docker-compose down
+
+# Sirve para reiniciar un contenerdor específico o varios
+- docker-compose restart <nombre del contenedor>
+- docker-compose restart <contenedor1> <contenedor2> <contenedorN>
+
+# Sirve para validar que contenedores se encuentran dentro de su red
+- docker network inspect <nombre de su red>
+
+# Sirve para ejecutar y acceder a un contenedor específico
+- docker-compose exec <nombre del contenedor> bash
+- docker-compose exec -it <nombre del contenedor> bash
+
+# Sirve para ver los logs de un contenedor
+- docker logs <nombre del contenedor>
+
+# Sirve para depurar/borrar los volumenes no utilizados
+- docker volume prune
+
+# Sirve para listar todos los contenedores y sus especificaciones
+- docker ps
+
+# Sirve para copiar un archivo del contenedor a su máquina local
+- docker cp <Container ID>:<ruta_del_archivo_en_contenedor> <ruta_local_destino>
+- docker cp 2ff95d8fd4fc:/etc/hadoop/yarn-site.xml yarn-site.xml . 
+
+# Sirve para copiar un archivo de su máquina local al contenedor
+- docker cp <ruta_local_destino> <Container ID>:<ruta_del_archivo_en_contenedor y el nombre del archivo>
+- docker cp yarn-site.xml 2ff95d8fd4fc:/etc/hadoop/yarn-site.xml
+
+# Sirve para verificar la version de docker y docker-compose
+- docker --version
+- docker-compose --version
+
+# Estando dentro del contenedor, sirve para formatear el HDFS del namenode
+- hdfs namenode -format
+
+# Sirve para limpiar la pantalla de su CLI de docker o Windows
+- clear o cls
+
+# Sirve para listar los archivos y/o carpetas en la ruta actual
+- ls
+
+# Dentro del bash de namenode van a ejecutar los siguientes comandos para crear un usuario de Jupyter
+# llamado jovyan que es el usuario que ocupa la versión actual de nuestro Jupyter
+
+- hdfs dfs -mkdir -p /user/jovyan
+- hdfs dfs -chown jovyan:supergroup /user/jovyan
+ 
+# Dentro del contenedor de spark van a incluir la siguiente linea en la siguiente ruta:
+- Ruta: /opt/bitnami/spark/conf/spark-default.conf
+- Linea a agregar: spark.hadoop.fs.defaultFS hdfs://namenode:8020
+
+# Comando para mover el archivo ventas de local a su contenedor namenode (no modificar ruta destino)
+# Se debe correr dentro del contenedor de namenode
+hdfs dfs -put /aqui/ruta/loca/ventas.csv /user/hadoop/ventas.csv

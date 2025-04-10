@@ -1,0 +1,187 @@
+version: '2'
+networks:
+  big_data_network:
+    driver: bridge
+    name: big_data_network
+
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+    container_name: namenode
+    ports:
+      - 50070:50070 # Web UI NameNode
+      - 8020:8020  # HDFS
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - NAMENODE_HOST=namenode
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+      - hadoop_namenode_edits:/hadoop/dfs/name/edits
+    networks:
+      - big_data_network
+
+#  secondarynamenode:
+#    image: bde2020/hadoop-secondarynamenode:2.0.0-hadoop2.7.4-java8
+#    container_name: secondarynamenode
+#    ports:
+#      - 9868:9868  # Web UI Secondary NameNode
+#    environment:
+#      - CLUSTER_NAME=big_data_cluster
+#    depends_on:
+#      - namenode
+#    networks:
+#      - big_data_network
+
+  datanode1:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+    container_name: datanode1
+    ports:
+      - 50075:50075  # Web UI DataNode1
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - DATANODE_HOST=datanode1
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    volumes:
+      - hadoop_datanode1:/hadoop/dfs/data
+    depends_on:
+      - namenode
+    networks:
+      - big_data_network
+
+  datanode2:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+    container_name: datanode2
+    ports:
+      - 50076:50076  # Web UI DataNode2
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - DATANODE_HOST=datanode2
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    volumes:
+      - hadoop_datanode2:/hadoop/dfs/data
+    depends_on:
+      - namenode
+    networks:
+      - big_data_network
+
+  datanode3:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+    container_name: datanode3
+    ports:
+      - 50077:50077  # Web UI DataNode3
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - DATANODE_HOST=datanode3
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    volumes:
+      - hadoop_datanode3:/hadoop/dfs/data
+    depends_on:
+      - namenode
+    networks:
+      - big_data_network
+
+  resourcemanager:
+    image: bde2020/hadoop-resourcemanager:2.0.0-hadoop2.7.4-java8
+    container_name: resourcemanager
+    ports:
+      - 8088:8088  # Web UI ResourceManager
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - YARN_CONF_yarn_resourcemanager_hostname=resourcemanager
+      - YARN_CONF_yarn_nodemanager_aux_services=mapreduce_shuffle
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    depends_on:
+      - namenode
+    networks:
+      - big_data_network
+
+  nodemanager1:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop2.7.4-java8
+    container_name: nodemanager1
+    ports:
+      - 8042:8042  # Web UI NodeManager1
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - YARN_CONF_yarn_resourcemanager_hostname=resourcemanager
+      - YARN_CONF_yarn_nodemanager_aux_services=mapreduce_shuffle
+    depends_on:
+      - resourcemanager
+    networks:
+      - big_data_network
+
+  nodemanager2:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop2.7.4-java8
+    container_name: nodemanager2
+    ports:
+      - 8043:8043  # Web UI NodeManager2
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - YARN_CONF_yarn_resourcemanager_hostname=resourcemanager
+      - YARN_CONF_yarn_nodemanager_aux_services=mapreduce_shuffle
+    restart: always
+    depends_on:
+      - resourcemanager
+    networks:
+      - big_data_network
+
+  nodemanager3:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop2.7.4-java8
+    container_name: nodemanager3
+    ports:
+      - 8044:8044  # Web UI NodeManager3
+    environment:
+      - CLUSTER_NAME=big_data_cluster
+      - YARN_CONF_yarn_resourcemanager_hostname=resourcemanager
+      - YARN_CONF_yarn_nodemanager_aux_services=mapreduce_shuffle
+    depends_on:
+      - resourcemanager
+    networks:
+      - big_data_network
+
+  spark:
+    image: bitnami/spark:3.4
+    container_name: spark
+    ports:
+      - 4040:404    # Spark job UI
+#      - "8080:8080"    # Spark Master Web UI (si habilitas modo cluster más adelante)
+      - 7077:7077    # Spark Master port
+    environment:
+      - SPARK_MODE=master
+      - SPARK_MASTER=yarn
+      - HADOOP_CONF_DIR=/opt/hadoop/etc/hadoop
+    volumes:
+      - ./hadoop_conf:/opt/hadoop/etc/hadoop
+    depends_on:
+      - resourcemanager
+    networks:
+      - big_data_network
+    tty: true
+
+  jupyter:
+    image: jupyter/pyspark-notebook
+    container_name: jupyter
+    user: root
+    ports:
+      - 8889:8888
+    environment:
+      - SPARK_MASTER=spark://spark:7077
+      - HADOOP_CONF_DIR=/opt/hadoop/etc/hadoop
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./hadoop_conf:/opt/hadoop/etc/hadoop
+    depends_on:
+      - resourcemanager
+    networks:
+      - big_data_network
+
+volumes:
+  hadoop_namenode:
+    driver: local
+  hadoop_namenode_edits:
+    driver: local
+  hadoop_datanode1:
+    driver: local
+  hadoop_datanode2:
+    driver: local
+  hadoop_datanode3:
+    driver: local

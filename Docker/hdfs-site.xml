@@ -1,0 +1,25 @@
+<configuration>
+    <!-- Número de réplicas para los bloques en HDFS -->
+    <property>
+        <name>dfs.replication</name>
+        <value>1</value>
+    </property>
+
+    <!-- Directorio donde se almacenan los datos del NameNode -->
+    <property>
+        <name>dfs.namenode.name.dir</name>
+        <value>file:///usr/local/hadoop/hdfs/namenode</value>
+    </property>
+
+    <!-- Directorio donde se almacenan los datos de los DataNodes -->
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>file:///usr/local/hadoop/hdfs/datanode</value>
+    </property>
+
+    <!-- Directorio temporal para HDFS -->
+    <property>
+        <name>dfs.namenode.fs-limits</name>
+        <value>10000000</value>
+    </property>
+</configuration>

@@ -1,0 +1,19 @@
+<configuration>
+    <!-- El sistema de archivos por defecto para Hadoop -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://namenode:8020</value>
+    </property>
+
+    <!-- Ubicación de los archivos temporales -->
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>/tmp/hadoop</value>
+    </property>
+
+    <!-- Habilitar el uso de compresión para operaciones de lectura y escritura -->
+    <property>
+        <name>io.compression.codecs</name>
+        <value>org.apache.hadoop.io.compress.GzipCodec</value>
+    </property>
+</configuration>

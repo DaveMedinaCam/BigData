@@ -1,0 +1,21 @@
+Instrucciones para ejecutar Hadoop en Docker:
+
+1.- Van a descargar el archivo "docker-compose.yml"
+2.- Van a abrir Docker Desktop
+3.- Van a abrir la terminal de Docker Desktop (esquina inferior derecha)
+4.- Van a buscar la ruta donde se encuentra su archivo (ej. Documentos, Descargas o carpeta Docker)
+5.- Van a ejecutar el comando "docker-compose up -d"
+6.- Esperaran a que las imagenes se descarguen, se creen los volumenes y se construyan los contendores
+7.- Posiblemente les salga un error en el namenode, si pasa eso ejecutarán los siguientes comandos:
+    - docker-compose run namenode bash
+    - hdfs namenode -format
+    - exit
+    - docker-compose up -d namenode
+8.- Con esto podrán ver todos los contendores ejecutandose y podrán entrar a cada una de las páginas web en sus respectivos puertos.
+
+NOTA: 
+- Recuerden que tienen que descargar el complemento de "docker-compose" en sus máquinas desde antes de comenzar. 
+  A veces Docker Desktop lo instala solo, a veces no. 
+- De momento no tienen que mover ya ningún archivo del contenedor a su máquina ni de su máquina al contenedor.
+
+

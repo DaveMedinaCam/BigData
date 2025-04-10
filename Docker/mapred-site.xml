@@ -1,0 +1,19 @@
+<configuration>
+    <!-- Especifica el marco de trabajo de MapReduce (por defecto YARN) -->
+    <property>
+        <name>mapreduce.framework.name</name>
+        <value>yarn</value>
+    </property>
+
+    <!-- Configuración de los recursos que MapReduce usa -->
+    <property>
+        <name>mapreduce.jobhistory.address</name>
+        <value>localhost:10020</value>
+    </property>
+
+    <!-- Configuración para MapReduce Job History Server -->
+    <property>
+        <name>mapreduce.jobhistory.webapp.address</name>
+        <value>localhost:19888</value>
+    </property>
+</configuration>
