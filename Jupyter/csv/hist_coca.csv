@@ -1,0 +1,201 @@
+ID_Compra,Fecha,Producto,Cantidad,Precio_Unitario,Total,Tienda
+1,2024-08-02,Coca-Cola Original,5,1.2,6.0,OXXO
+2,2024-09-11,Coca-Cola Vainilla,4,1.3,5.2,OXXO
+3,2024-12-29,Coca-Cola Cherry,1,1.3,1.3,Bodega Aurrera
+4,2024-04-14,Coca-Cola Energy,7,1.5,10.5,OXXO
+5,2024-05-07,Coca-Cola Energy,6,1.5,9.0,OXXO
+6,2024-05-29,Coca-Cola Sin Azúcar,8,1.1,8.8,7-Eleven
+7,2024-04-26,Coca-Cola Vainilla,6,1.3,7.8,Bodega Aurrera
+8,2024-09-05,Coca-Cola Light,1,1.1,1.1,OXXO
+9,2024-05-24,Coca-Cola Sin Azúcar,7,1.1,7.7,Bodega Aurrera
+10,2024-05-19,Coca-Cola Cherry,10,1.3,13.0,Bodega Aurrera
+11,2024-01-14,Coca-Cola Energy,3,1.5,4.5,Costco
+12,2024-08-05,Coca-Cola Cherry,2,1.3,2.6,Soriana
+13,2024-10-09,Coca-Cola Energy,5,1.5,7.5,7-Eleven
+14,2024-08-17,Coca-Cola Cherry,10,1.3,13.0,7-Eleven
+15,2024-02-21,Coca-Cola Light,1,1.1,1.1,Costco
+16,2024-10-14,Coca-Cola Cherry,5,1.3,6.5,Bodega Aurrera
+17,2024-05-22,Coca-Cola Energy,8,1.5,12.0,Walmart
+18,2024-01-16,Coca-Cola Light,2,1.1,2.2,OXXO
+19,2024-02-01,Coca-Cola Original,3,1.2,3.6,Soriana
+20,2024-11-26,Coca-Cola Vainilla,4,1.3,5.2,Costco
+21,2024-07-24,Coca-Cola Energy,3,1.5,4.5,Walmart
+22,2024-07-17,Coca-Cola Light,2,1.1,2.2,Costco
+23,2024-12-25,Coca-Cola Energy,6,1.5,9.0,7-Eleven
+24,2024-05-04,Coca-Cola Light,7,1.1,7.7,Costco
+25,2024-01-18,Coca-Cola Original,10,1.2,12.0,7-Eleven
+26,2024-07-31,Coca-Cola Light,10,1.1,11.0,OXXO
+27,2024-10-10,Coca-Cola Original,10,1.2,12.0,Walmart
+28,2024-02-03,Coca-Cola Sin Azúcar,10,1.1,11.0,Bodega Aurrera
+29,2024-11-06,Coca-Cola Vainilla,1,1.3,1.3,7-Eleven
+30,2024-07-30,Coca-Cola Light,10,1.1,11.0,7-Eleven
+31,2024-10-20,Coca-Cola Light,1,1.1,1.1,7-Eleven
+32,2024-11-14,Coca-Cola Vainilla,4,1.3,5.2,Walmart
+33,2024-07-19,Coca-Cola Vainilla,10,1.3,13.0,Soriana
+34,2024-10-30,Coca-Cola Vainilla,5,1.3,6.5,Costco
+35,2024-01-15,Coca-Cola Cherry,1,1.3,1.3,Costco
+36,2024-09-01,Coca-Cola Light,1,1.1,1.1,Walmart
+37,2024-06-14,Coca-Cola Light,10,1.1,11.0,7-Eleven
+38,2024-03-26,Coca-Cola Cherry,8,1.3,10.4,OXXO
+39,2024-10-17,Coca-Cola Cherry,9,1.3,11.7,Walmart
+40,2024-02-13,Coca-Cola Energy,4,1.5,6.0,Costco
+41,2024-06-27,Coca-Cola Original,6,1.2,7.2,Walmart
+42,2024-02-06,Coca-Cola Original,6,1.2,7.2,Soriana
+43,2024-02-29,Coca-Cola Sin Azúcar,2,1.1,2.2,Soriana
+44,2024-09-01,Coca-Cola Original,8,1.2,9.6,Soriana
+45,2024-07-16,Coca-Cola Vainilla,4,1.3,5.2,Walmart
+46,2024-04-02,Coca-Cola Cherry,2,1.3,2.6,Soriana
+47,2024-05-14,Coca-Cola Energy,5,1.5,7.5,Bodega Aurrera
+48,2024-06-04,Coca-Cola Sin Azúcar,2,1.1,2.2,Bodega Aurrera
+49,2024-04-03,Coca-Cola Sin Azúcar,8,1.1,8.8,Costco
+50,2024-05-10,Coca-Cola Vainilla,7,1.3,9.1,Costco
+51,2024-07-07,Coca-Cola Vainilla,5,1.3,6.5,Costco
+52,2024-07-13,Coca-Cola Original,4,1.2,4.8,7-Eleven
+53,2024-03-25,Coca-Cola Sin Azúcar,5,1.1,5.5,Bodega Aurrera
+54,2024-10-30,Coca-Cola Vainilla,6,1.3,7.8,Bodega Aurrera
+55,2024-01-01,Coca-Cola Light,3,1.1,3.3,7-Eleven
+56,2024-06-04,Coca-Cola Original,1,1.2,1.2,OXXO
+57,2024-11-15,Coca-Cola Original,1,1.2,1.2,7-Eleven
+58,2024-10-03,Coca-Cola Sin Azúcar,7,1.1,7.7,Soriana
+59,2024-12-13,Coca-Cola Vainilla,10,1.3,13.0,7-Eleven
+60,2024-11-07,Coca-Cola Energy,7,1.5,10.5,Walmart
+61,2024-08-09,Coca-Cola Energy,8,1.5,12.0,Costco
+62,2024-05-01,Coca-Cola Energy,2,1.5,3.0,OXXO
+63,2024-07-28,Coca-Cola Sin Azúcar,10,1.1,11.0,Soriana
+64,2024-12-19,Coca-Cola Cherry,2,1.3,2.6,7-Eleven
+65,2024-01-29,Coca-Cola Original,7,1.2,8.4,Bodega Aurrera
+66,2024-10-30,Coca-Cola Vainilla,3,1.3,3.9,Soriana
+67,2024-12-23,Coca-Cola Vainilla,6,1.3,7.8,Bodega Aurrera
+68,2024-08-31,Coca-Cola Light,9,1.1,9.9,OXXO
+69,2024-01-18,Coca-Cola Cherry,6,1.3,7.8,Bodega Aurrera
+70,2024-03-21,Coca-Cola Cherry,2,1.3,2.6,Walmart
+71,2024-10-26,Coca-Cola Energy,6,1.5,9.0,Walmart
+72,2024-04-09,Coca-Cola Original,10,1.2,12.0,Bodega Aurrera
+73,2024-01-16,Coca-Cola Light,8,1.1,8.8,Walmart
+74,2024-11-25,Coca-Cola Energy,2,1.5,3.0,7-Eleven
+75,2024-04-05,Coca-Cola Sin Azúcar,2,1.1,2.2,Bodega Aurrera
+76,2024-06-16,Coca-Cola Cherry,5,1.3,6.5,OXXO
+77,2024-11-11,Coca-Cola Cherry,1,1.3,1.3,Walmart
+78,2024-01-18,Coca-Cola Vainilla,9,1.3,11.7,7-Eleven
+79,2024-03-23,Coca-Cola Sin Azúcar,7,1.1,7.7,Bodega Aurrera
+80,2024-03-17,Coca-Cola Vainilla,6,1.3,7.8,7-Eleven
+81,2024-10-03,Coca-Cola Vainilla,3,1.3,3.9,Costco
+82,2024-02-13,Coca-Cola Original,7,1.2,8.4,OXXO
+83,2024-07-24,Coca-Cola Vainilla,4,1.3,5.2,7-Eleven
+84,2024-12-24,Coca-Cola Sin Azúcar,10,1.1,11.0,Bodega Aurrera
+85,2024-02-02,Coca-Cola Original,3,1.2,3.6,OXXO
+86,2024-08-30,Coca-Cola Sin Azúcar,1,1.1,1.1,Walmart
+87,2024-11-17,Coca-Cola Energy,5,1.5,7.5,7-Eleven
+88,2024-01-05,Coca-Cola Cherry,5,1.3,6.5,Bodega Aurrera
+89,2024-05-25,Coca-Cola Sin Azúcar,10,1.1,11.0,Costco
+90,2024-02-29,Coca-Cola Cherry,9,1.3,11.7,7-Eleven
+91,2024-12-30,Coca-Cola Cherry,2,1.3,2.6,Costco
+92,2024-09-14,Coca-Cola Energy,3,1.5,4.5,Walmart
+93,2024-08-21,Coca-Cola Light,9,1.1,9.9,Soriana
+94,2024-05-18,Coca-Cola Original,9,1.2,10.8,Walmart
+95,2024-03-10,Coca-Cola Cherry,5,1.3,6.5,Walmart
+96,2024-09-12,Coca-Cola Vainilla,3,1.3,3.9,Walmart
+97,2024-01-09,Coca-Cola Energy,5,1.5,7.5,Costco
+98,2024-09-14,Coca-Cola Cherry,1,1.3,1.3,Costco
+99,2024-10-17,Coca-Cola Cherry,10,1.3,13.0,Bodega Aurrera
+100,2024-09-15,Coca-Cola Cherry,9,1.3,11.7,Costco
+101,2024-01-01,Coca-Cola Cherry,2,1.3,2.6,Soriana
+102,2024-10-24,Coca-Cola Cherry,10,1.3,13.0,Bodega Aurrera
+103,2024-08-17,Coca-Cola Sin Azúcar,4,1.1,4.4,OXXO
+104,2024-08-15,Coca-Cola Sin Azúcar,4,1.1,4.4,Walmart
+105,2024-09-02,Coca-Cola Vainilla,8,1.3,10.4,Soriana
+106,2024-10-27,Coca-Cola Light,6,1.1,6.6,Walmart
+107,2024-03-06,Coca-Cola Sin Azúcar,5,1.1,5.5,Costco
+108,2024-01-05,Coca-Cola Cherry,9,1.3,11.7,Bodega Aurrera
+109,2024-07-06,Coca-Cola Vainilla,4,1.3,5.2,Costco
+110,2024-09-10,Coca-Cola Sin Azúcar,3,1.1,3.3,Walmart
+111,2024-09-12,Coca-Cola Sin Azúcar,8,1.1,8.8,OXXO
+112,2024-04-12,Coca-Cola Original,3,1.2,3.6,Bodega Aurrera
+113,2024-05-04,Coca-Cola Cherry,3,1.3,3.9,Bodega Aurrera
+114,2024-08-27,Coca-Cola Original,7,1.2,8.4,Bodega Aurrera
+115,2024-07-22,Coca-Cola Energy,7,1.5,10.5,Soriana
+116,2024-02-03,Coca-Cola Cherry,1,1.3,1.3,Costco
+117,2024-08-23,Coca-Cola Original,2,1.2,2.4,OXXO
+118,2024-11-01,Coca-Cola Cherry,7,1.3,9.1,OXXO
+119,2024-11-14,Coca-Cola Original,6,1.2,7.2,Soriana
+120,2024-02-01,Coca-Cola Original,10,1.2,12.0,Walmart
+121,2024-03-13,Coca-Cola Cherry,7,1.3,9.1,Bodega Aurrera
+122,2024-03-23,Coca-Cola Original,8,1.2,9.6,Walmart
+123,2024-07-16,Coca-Cola Original,1,1.2,1.2,Costco
+124,2024-12-31,Coca-Cola Cherry,2,1.3,2.6,Soriana
+125,2024-03-18,Coca-Cola Original,1,1.2,1.2,Soriana
+126,2024-11-27,Coca-Cola Energy,6,1.5,9.0,Bodega Aurrera
+127,2024-03-02,Coca-Cola Cherry,1,1.3,1.3,Soriana
+128,2024-01-26,Coca-Cola Sin Azúcar,4,1.1,4.4,Walmart
+129,2024-08-01,Coca-Cola Light,3,1.1,3.3,Soriana
+130,2024-08-09,Coca-Cola Energy,6,1.5,9.0,7-Eleven
+131,2024-05-01,Coca-Cola Light,10,1.1,11.0,OXXO
+132,2024-04-04,Coca-Cola Original,3,1.2,3.6,Soriana
+133,2024-08-10,Coca-Cola Energy,5,1.5,7.5,Bodega Aurrera
+134,2024-02-17,Coca-Cola Sin Azúcar,8,1.1,8.8,OXXO
+135,2024-02-14,Coca-Cola Sin Azúcar,10,1.1,11.0,Costco
+136,2024-05-02,Coca-Cola Cherry,7,1.3,9.1,OXXO
+137,2024-11-17,Coca-Cola Vainilla,3,1.3,3.9,Costco
+138,2024-05-11,Coca-Cola Energy,5,1.5,7.5,Bodega Aurrera
+139,2024-04-28,Coca-Cola Cherry,8,1.3,10.4,Soriana
+140,2024-04-24,Coca-Cola Sin Azúcar,10,1.1,11.0,Costco
+141,2024-11-22,Coca-Cola Vainilla,1,1.3,1.3,Soriana
+142,2024-01-01,Coca-Cola Energy,6,1.5,9.0,Costco
+143,2024-12-05,Coca-Cola Vainilla,9,1.3,11.7,OXXO
+144,2024-09-03,Coca-Cola Original,7,1.2,8.4,7-Eleven
+145,2024-11-25,Coca-Cola Original,8,1.2,9.6,Costco
+146,2024-03-28,Coca-Cola Vainilla,2,1.3,2.6,Costco
+147,2024-11-22,Coca-Cola Original,8,1.2,9.6,Bodega Aurrera
+148,2024-06-29,Coca-Cola Original,6,1.2,7.2,Bodega Aurrera
+149,2024-11-28,Coca-Cola Original,8,1.2,9.6,OXXO
+150,2024-06-06,Coca-Cola Light,8,1.1,8.8,Bodega Aurrera
+151,2024-11-19,Coca-Cola Original,7,1.2,8.4,Bodega Aurrera
+152,2024-08-22,Coca-Cola Cherry,6,1.3,7.8,Soriana
+153,2024-03-08,Coca-Cola Light,3,1.1,3.3,OXXO
+154,2024-10-24,Coca-Cola Sin Azúcar,5,1.1,5.5,Walmart
+155,2024-06-17,Coca-Cola Cherry,9,1.3,11.7,Bodega Aurrera
+156,2024-07-04,Coca-Cola Light,7,1.1,7.7,Walmart
+157,2024-05-05,Coca-Cola Sin Azúcar,5,1.1,5.5,Bodega Aurrera
+158,2024-11-16,Coca-Cola Light,4,1.1,4.4,Soriana
+159,2024-08-04,Coca-Cola Cherry,6,1.3,7.8,OXXO
+160,2024-05-31,Coca-Cola Energy,9,1.5,13.5,Bodega Aurrera
+161,2024-07-21,Coca-Cola Vainilla,1,1.3,1.3,Costco
+162,2024-06-29,Coca-Cola Vainilla,9,1.3,11.7,OXXO
+163,2024-10-13,Coca-Cola Cherry,4,1.3,5.2,OXXO
+164,2024-09-07,Coca-Cola Cherry,4,1.3,5.2,Bodega Aurrera
+165,2024-04-14,Coca-Cola Sin Azúcar,9,1.1,9.9,7-Eleven
+166,2024-08-03,Coca-Cola Original,7,1.2,8.4,Costco
+167,2024-05-22,Coca-Cola Sin Azúcar,4,1.1,4.4,Walmart
+168,2024-08-01,Coca-Cola Vainilla,5,1.3,6.5,Costco
+169,2024-07-24,Coca-Cola Sin Azúcar,7,1.1,7.7,Walmart
+170,2024-01-11,Coca-Cola Energy,6,1.5,9.0,7-Eleven
+171,2024-09-24,Coca-Cola Light,9,1.1,9.9,Bodega Aurrera
+172,2024-12-03,Coca-Cola Energy,2,1.5,3.0,OXXO
+173,2024-12-22,Coca-Cola Light,10,1.1,11.0,Soriana
+174,2024-08-26,Coca-Cola Light,3,1.1,3.3,Soriana
+175,2024-05-01,Coca-Cola Vainilla,4,1.3,5.2,Walmart
+176,2024-01-02,Coca-Cola Original,10,1.2,12.0,OXXO
+177,2024-10-02,Coca-Cola Light,5,1.1,5.5,Soriana
+178,2024-03-07,Coca-Cola Energy,5,1.5,7.5,Walmart
+179,2024-08-29,Coca-Cola Sin Azúcar,5,1.1,5.5,7-Eleven
+180,2024-05-10,Coca-Cola Vainilla,7,1.3,9.1,Soriana
+181,2024-09-09,Coca-Cola Vainilla,8,1.3,10.4,Bodega Aurrera
+182,2024-05-06,Coca-Cola Light,1,1.1,1.1,7-Eleven
+183,2024-06-29,Coca-Cola Sin Azúcar,6,1.1,6.6,Bodega Aurrera
+184,2024-07-30,Coca-Cola Energy,6,1.5,9.0,7-Eleven
+185,2024-12-31,Coca-Cola Energy,10,1.5,15.0,7-Eleven
+186,2024-10-16,Coca-Cola Light,3,1.1,3.3,7-Eleven
+187,2024-03-15,Coca-Cola Sin Azúcar,10,1.1,11.0,OXXO
+188,2024-09-04,Coca-Cola Sin Azúcar,2,1.1,2.2,Soriana
+189,2024-07-25,Coca-Cola Light,8,1.1,8.8,OXXO
+190,2024-08-01,Coca-Cola Cherry,2,1.3,2.6,7-Eleven
+191,2024-03-11,Coca-Cola Vainilla,5,1.3,6.5,Walmart
+192,2024-11-08,Coca-Cola Energy,4,1.5,6.0,OXXO
+193,2024-10-03,Coca-Cola Cherry,2,1.3,2.6,OXXO
+194,2024-12-09,Coca-Cola Energy,5,1.5,7.5,7-Eleven
+195,2024-10-02,Coca-Cola Original,1,1.2,1.2,7-Eleven
+196,2024-02-24,Coca-Cola Original,5,1.2,6.0,Soriana
+197,2024-12-05,Coca-Cola Light,3,1.1,3.3,7-Eleven
+198,2024-02-25,Coca-Cola Light,4,1.1,4.4,OXXO
+199,2024-01-22,Coca-Cola Original,10,1.2,12.0,Soriana
+200,2024-12-09,Coca-Cola Vainilla,1,1.3,1.3,Costco

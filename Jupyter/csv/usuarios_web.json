@@ -1,0 +1,1802 @@
+[
+  {
+    "usuario_id": "46052c0c",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 48.82,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "0e4f599d",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 41.0,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "440863b4",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 17.05,
+    "paginas_vistas": 15,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "a1c2930a",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 50.05,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "79c3ab9e",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 52.46,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "80de760c",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 29.88,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "fa1b91ba",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 18.97,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "df44f475",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 58.48,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "9d841178",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 20.27,
+    "paginas_vistas": 2,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "d4240ab6",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 6.81,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "2951d0fc",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 2.47,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "79da3340",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 19.24,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "72d7617a",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 12.52,
+    "paginas_vistas": 5,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "e337f467",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 57.94,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "ebb1392e",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 33.31,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "4bb3e888",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 11.51,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "411fb6b3",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 29.37,
+    "paginas_vistas": 2,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "62995890",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 39.46,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "b61bad7a",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 29.56,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "095bc046",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 2.53,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "63f19e4f",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 42.79,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "f430ebd1",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 56.42,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "5cff3ded",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 53.25,
+    "paginas_vistas": 15,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "fdaeb6d4",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 29.0,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "9cfe0b5f",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 42.27,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "636e2784",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 41.78,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "168795a3",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 6.59,
+    "paginas_vistas": 15,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "4fee291f",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 56.6,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "08fe630e",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 28.59,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "52168143",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 22.47,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "042eed7e",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 17.19,
+    "paginas_vistas": 15,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "d045aea0",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 39.57,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "5f72a3db",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 14.84,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "c4e5db60",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 10.56,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "d1ee7d0e",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 21.63,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "01bf8198",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 52.03,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "5f828caa",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 17.11,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "ac2fc277",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 20.03,
+    "paginas_vistas": 11,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "de820fe1",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 49.79,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "5a07a0ae",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 41.12,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "8888ce04",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 26.82,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "0c1ab5cf",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 54.19,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "91c548bf",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 32.84,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "ba2ad98e",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 19.85,
+    "paginas_vistas": 12,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "20cca9ca",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 2.11,
+    "paginas_vistas": 5,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "5f9ce393",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 44.38,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "eeec8600",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 8.13,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "8b0d18ed",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 13.12,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "3d65494c",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 46.61,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "fb9ef8fe",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 55.65,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "2af935be",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 22.37,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "d96a512a",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 45.72,
+    "paginas_vistas": 1,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "419d86b4",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 41.72,
+    "paginas_vistas": 14,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "ccd4bed4",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 2.03,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "a7dd11cc",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 50.0,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "4693ca32",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 6.3,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "f94b1cb2",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 16.9,
+    "paginas_vistas": 4,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "0d861426",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 46.6,
+    "paginas_vistas": 4,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "55cee4af",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 26.38,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "646daf28",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 59.45,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "1d492388",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 28.36,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "ecbbc618",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 49.66,
+    "paginas_vistas": 15,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "05c338aa",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 46.22,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "0795c297",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 29.25,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "ca34a88c",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 4.41,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "aa83dc47",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 11.76,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "51c7c85e",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 28.21,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "62f226dc",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 23.59,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "0ddb9aba",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 56.72,
+    "paginas_vistas": 15,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "cd9ee581",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 34.75,
+    "paginas_vistas": 11,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "ef75ee02",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 36.26,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "2db3db65",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 38.09,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "b7c005e3",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 33.2,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "85874af3",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 3.97,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "e1542111",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 45.92,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "fce2def0",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 40.52,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "34d65e06",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 50.86,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "a35e7b3b",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 11.2,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "6f80dc55",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 45.88,
+    "paginas_vistas": 15,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "56a614eb",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 7.93,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "61f7ef25",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 15.45,
+    "paginas_vistas": 12,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "4a7f6977",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 33.61,
+    "paginas_vistas": 14,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "f486ec0b",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 21.45,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "01ee4873",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 2.99,
+    "paginas_vistas": 11,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "93ae43e4",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 51.64,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "60f6daee",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 31.49,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "d76223ce",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 45.09,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "b470587d",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 15.33,
+    "paginas_vistas": 15,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "9177a3fc",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 17.5,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "03e2c108",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 5.64,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "01cef756",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 17.7,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "9f24cfba",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 21.21,
+    "paginas_vistas": 10,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "d977369a",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 20.17,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "cc23576c",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 5.23,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "490b87ca",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 16.43,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "9af90750",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 47.18,
+    "paginas_vistas": 5,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "ff877497",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 34.37,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "71152695",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 31.17,
+    "paginas_vistas": 15,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "5a51d70e",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 49.37,
+    "paginas_vistas": 14,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "093cc38f",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 17.82,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "c081f211",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 13.21,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "47121862",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 25.45,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "6c0d1ce6",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 5.3,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "cea3dab7",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 32.93,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "4870b749",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 21.21,
+    "paginas_vistas": 10,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "42ca3f74",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 14.11,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "828290c4",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 45.95,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "b2bd654f",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 15.03,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "27fd8aba",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 56.48,
+    "paginas_vistas": 10,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "05dc26ab",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 53.45,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "bce7690f",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 34.87,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "37f16f4d",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 24.76,
+    "paginas_vistas": 1,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "94600d18",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 50.6,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "c033a70f",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 2.25,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "76e400ab",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 14.15,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "2361ee2e",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 14.48,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "7b96fa3b",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 11.07,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "9d1fcf45",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 5.38,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "d3e23997",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 28.6,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "3a33da89",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 18.51,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "1fcab769",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 39.9,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "1621b6e2",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 15.76,
+    "paginas_vistas": 11,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "8c2597d7",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 49.54,
+    "paginas_vistas": 4,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "ac6a0996",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 47.19,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "3f994b8a",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 53.87,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "cb139d9f",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 2.41,
+    "paginas_vistas": 6,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "4dbc9e48",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 26.95,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "e2d6d6b6",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 30.54,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "c2b0c974",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 4.73,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "98ba2435",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 25.84,
+    "paginas_vistas": 9,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "c0d24a20",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 23.11,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "2db6c1b6",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 22.5,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "67441cab",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 18.0,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "c991bd72",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 34.62,
+    "paginas_vistas": 4,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "bb5dc90c",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 14.96,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "1c73220a",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 43.7,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "c07f8d86",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 23.4,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "b0854430",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 58.26,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "164af7db",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 28.8,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "5a1bf0fc",
+    "pais": "Colombia",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 7.98,
+    "paginas_vistas": 12,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "127d3a08",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 5.74,
+    "paginas_vistas": 14,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "e977f836",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 14.02,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "d903d722",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 26.73,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "a1b757ff",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 41.33,
+    "paginas_vistas": 15,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "9ea688d7",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 38.08,
+    "paginas_vistas": 2,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "58ec0f6f",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 51.77,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "c5499b6f",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 57.59,
+    "paginas_vistas": 2,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "a6ce4899",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 54.57,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "b0ff95a2",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 59.26,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "ff050050",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 53.58,
+    "paginas_vistas": 9,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "fee6d2e6",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 29.4,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "ddfd3fe5",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 46.96,
+    "paginas_vistas": 5,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "35b923f1",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 28.36,
+    "paginas_vistas": 4,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "f2313bfa",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 44.49,
+    "paginas_vistas": 9,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "1c87ae11",
+    "pais": "Estados Unidos",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 46.61,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "0b2e2357",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 41.91,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "acb76345",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 8.09,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "1fbcc754",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 33.75,
+    "paginas_vistas": 1,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "4ebfb172",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 33.37,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "01c0a85d",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 28.7,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "32f9d99f",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 33.53,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "85318d82",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 5.4,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "8e323cdd",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 8.64,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "41abde60",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 42.83,
+    "paginas_vistas": 8,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "b4a8e1a8",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 45.09,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "4629cc79",
+    "pais": "Estados Unidos",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 59.44,
+    "paginas_vistas": 5,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "82c8a17e",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 20.71,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "967b9aa4",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 37.89,
+    "paginas_vistas": 3,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "1022fe51",
+    "pais": "Argentina",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 39.44,
+    "paginas_vistas": 10,
+    "conversion": false,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "7bb7f88b",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 5.36,
+    "paginas_vistas": 8,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "be7af33e",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 11.41,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "b2d1cb80",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 8.58,
+    "paginas_vistas": 11,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "028c773c",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 49.21,
+    "paginas_vistas": 5,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "217686f9",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 57.77,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "346ad38c",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 4.0,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "39ea3316",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 12.45,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "e6fd0548",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 57.94,
+    "paginas_vistas": 14,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "9ff67e1e",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 58.68,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "7ed9d1b0",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 17.45,
+    "paginas_vistas": 2,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "21407c15",
+    "pais": "Colombia",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 35.65,
+    "paginas_vistas": 14,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "aab134a1",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 34.57,
+    "paginas_vistas": 11,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  },
+  {
+    "usuario_id": "bc0a8088",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 30.24,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "43ef06a7",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 35.51,
+    "paginas_vistas": 12,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "48685840",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 30.31,
+    "paginas_vistas": 10,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "220c29b7",
+    "pais": "Argentina",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 38.38,
+    "paginas_vistas": 4,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "158e6e7b",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 27.75,
+    "paginas_vistas": 9,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "54b2b9bc",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 16.44,
+    "paginas_vistas": 7,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "c1534f14",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 56.33,
+    "paginas_vistas": 12,
+    "conversion": true,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "493966c4",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 6.3,
+    "paginas_vistas": 3,
+    "conversion": false,
+    "referencia": "Anuncio"
+  },
+  {
+    "usuario_id": "ded67519",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 3.97,
+    "paginas_vistas": 12,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "86b991bd",
+    "pais": "Estados Unidos",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 11.28,
+    "paginas_vistas": 13,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "317ac116",
+    "pais": "Argentina",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 59.98,
+    "paginas_vistas": 9,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "d470e084",
+    "pais": "Espa\u00f1a",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 24.33,
+    "paginas_vistas": 6,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "b2004902",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 10.88,
+    "paginas_vistas": 1,
+    "conversion": false,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "34f63bc4",
+    "pais": "Colombia",
+    "dispositivo": "Tablet",
+    "duracion_sesion": 44.83,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "b0e93d98",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 45.11,
+    "paginas_vistas": 1,
+    "conversion": true,
+    "referencia": "Redes Sociales"
+  },
+  {
+    "usuario_id": "38d90b5d",
+    "pais": "Canad\u00e1",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 14.71,
+    "paginas_vistas": 10,
+    "conversion": true,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "d9612659",
+    "pais": "M\u00e9xico",
+    "dispositivo": "Computadora",
+    "duracion_sesion": 30.21,
+    "paginas_vistas": 7,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "bcfbb9f6",
+    "pais": "M\u00e9xico",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 17.51,
+    "paginas_vistas": 13,
+    "conversion": false,
+    "referencia": "Directo"
+  },
+  {
+    "usuario_id": "97064fa4",
+    "pais": "Canad\u00e1",
+    "dispositivo": "M\u00f3vil",
+    "duracion_sesion": 19.83,
+    "paginas_vistas": 2,
+    "conversion": true,
+    "referencia": "Org\u00e1nico"
+  }
+]
