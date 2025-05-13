@@ -1,0 +1,37 @@
+# Comando para ingresar al contenedor de Kafka
+docker exec -it kafka1 bash
+
+# Con este comando se crea el Topic
+kafka-topics --bootstrap-server kafka1:9091 --create --topic big_data_topic1
+kafka-topics --bootstrap-server kafka2:9092 --create --topic big_data_topic2
+
+
+# Con este comando se crea el Producer
+kafka-console-producer --bootstrap-server kafka1:9091 --topic big_data_topic1
+kafka-console-producer --bootstrap-server kafka2:9092 --topic big_data_topic2
+
+# Con este comando se crea el Consumer
+kafka-console-consumer --bootstrap-server kafka1:9091 --topic big_data_topic1 --from-beginning
+kafka-console-consumer --bootstrap-server kafka2:9092 --topic big_data_topic2 --from-beginning
+
+# Con este comando se crea un ambiente virtual dentro de su máquina para ejecutar servicios o apps
+cd ~/Downloads  # o la ruta donde tengas producer.py
+python3 -m venv venv
+
+# Comando para activar el ambiente virtual
+source venv/bin/activate
+
+# Así se ve la terminal una vez que entramos al ambiente virtual
+ejemplo:
+(venv) user@tu-mac %
+
+# Se instala confluent-kafka
+pip install confluent-kafka
+
+# Comandos para copiar del local al contenedor kafka-client
+docker cp producer.py 057d8d81841d:/root/producer.py  
+docker cp consumer.py 057d8d81841d:/root/consumer.py  
+
+# Comando para ejecutar el archivo producer o consumer
+python producer.py
+python consumer.py
